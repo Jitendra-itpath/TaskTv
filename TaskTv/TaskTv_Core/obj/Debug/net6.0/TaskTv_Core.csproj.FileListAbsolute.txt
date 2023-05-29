@@ -1,0 +1,12 @@
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\bin\Debug\net6.0\TaskTv_Core.deps.json
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\bin\Debug\net6.0\TaskTv_Core.dll
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\bin\Debug\net6.0\TaskTv_Core.pdb
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\TaskTv_Core.csproj.AssemblyReference.cache
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\TaskTv_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\TaskTv_Core.AssemblyInfoInputs.cache
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\TaskTv_Core.AssemblyInfo.cs
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\TaskTv_Core.csproj.CoreCompileInputs.cache
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\TaskTv_Core.dll
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\refint\TaskTv_Core.dll
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\TaskTv_Core.pdb
+C:\Users\BAPS\source\repos\TaskTv\TaskTv\TaskTv\TaskTv_Core\obj\Debug\net6.0\ref\TaskTv_Core.dll
